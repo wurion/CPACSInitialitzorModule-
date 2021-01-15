@@ -1,0 +1,4 @@
+﻿transformation (4decimals);x;y;z;sections  (6decimals);Count;Profile;Contour;Length(x[m]);Sweep([deg]);DimsY;DimZ
+scaling;1;1;1;Front;20;rounded3;powerlaw;0.5;78;0.3;0.3
+rotation;0;0;0;Mid;5;rounded3;straight;1.5;90;0.3;0.3
+translation;0;0;0;Back;30;rounded3;parabolic;1;80;0.3;0.3
